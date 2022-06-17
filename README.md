@@ -46,7 +46,7 @@
 
 <p align="center">
     <a href="https://visitor-badge.glitch.me/">
-      <img align="center" src="https://page-views.glitch.me/badge?page_id=Yaduttam95.Yaduttam95">
+      <img align="center" src="https://page-views.glitch.me/badge?page_id=TheIcedBoy.TheIcedBoy">
     </a>
   </p>
   <p align="center">
